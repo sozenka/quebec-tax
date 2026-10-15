@@ -1,13 +1,50 @@
 {
   "name": "quebec-tax",
   "version": "1.0.0",
-  "description": "GST/QST sales tax and self-employed QPP/QPIP helpers for Québec, Canada (2026 rates). Zero dependencies. / Calculs TPS/TVQ, RRQ et RQAP pour le Québec.",
+  "description": "GST/QST sales tax and self-employed QPP/QPIP helpers for Qu\u00e9bec, Canada (2026 rates). Zero dependencies. / Calculs TPS/TVQ, RRQ et RQAP pour le Qu\u00e9bec.",
   "main": "src/index.js",
   "types": "src/index.d.ts",
-  "bin": { "quebec-tax": "bin/cli.js" },
-  "files": ["src", "bin"],
-  "scripts": { "test": "node --test test/index.test.js" },
-  "keywords": ["quebec", "canada", "gst", "qst", "tps", "tvq", "sales-tax", "qpp", "rrq", "qpip", "rqap", "freelancer", "invoice", "tax"],
+  "bin": {
+    "quebec-tax": "bin/cli.js"
+  },
+  "files": [
+    "src",
+    "bin"
+  ],
+  "scripts": {
+    "test": "node --test test/index.test.js"
+  },
+  "keywords": [
+    "quebec",
+    "canada",
+    "gst",
+    "qst",
+    "tps",
+    "tvq",
+    "sales-tax",
+    "qpp",
+    "rrq",
+    "qpip",
+    "rqap",
+    "freelancer",
+    "invoice",
+    "tax"
+  ],
   "license": "MIT",
-  "engines": { "node": ">=18" }
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sozenka/quebec-tax.git"
+  },
+  "homepage": "https://github.com/sozenka/quebec-tax#readme",
+  "bugs": {
+    "url": "https://github.com/sozenka/quebec-tax/issues"
+  },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/sozenka"
+  },
+  "author": "sozenka"
 }

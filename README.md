@@ -52,9 +52,9 @@ Ceci n'est pas un avis fiscal.
 
 ## Sponsor
 
-If this saves you time, consider [sponsoring the project](https://github.com/sponsors/YOUR_GITHUB_USERNAME). Sponsorship keeps the rates updated every January.
+If this saves you time, consider [sponsoring the project](https://github.com/sponsors/sozenka). Sponsorship keeps the rates updated every January.
 
-Need it in a spreadsheet instead? Bilingual Excel/Google Sheets templates built on the same math: *link coming soon*.
+Need it in a spreadsheet instead? Bilingual Excel/Google Sheets templates built on the same math: [sozenka.gumroad.com/l/quebec-tax-tracker](https://sozenka.gumroad.com/l/quebec-tax-tracker) (or the [full bundle](https://sozenka.gumroad.com/l/quebec-template-bundle)).
 
 ## License
 
