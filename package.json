@@ -1,0 +1,13 @@
+{
+  "name": "quebec-tax",
+  "version": "1.0.0",
+  "description": "GST/QST sales tax and self-employed QPP/QPIP helpers for Québec, Canada (2026 rates). Zero dependencies. / Calculs TPS/TVQ, RRQ et RQAP pour le Québec.",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "bin": { "quebec-tax": "bin/cli.js" },
+  "files": ["src", "bin"],
+  "scripts": { "test": "node --test test/index.test.js" },
+  "keywords": ["quebec", "canada", "gst", "qst", "tps", "tvq", "sales-tax", "qpp", "rrq", "qpip", "rqap", "freelancer", "invoice", "tax"],
+  "license": "MIT",
+  "engines": { "node": ">=18" }
+}
